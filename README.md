@@ -22,9 +22,7 @@ Um dies zu erreichen wollten wir TensorFlow und OpenCV nutzen. Es sollte ein Ten
 
 Außerdem haben wir ein Python-Script geschrieben, welches mithilfe von OpenCV Positionen der Finger in ein Array speichert. Basierend auf diesen Positionen werden Gesten definiert, welche von dem Programm erkannt werden.
 
-Ein Bild, das Text, Schrift, Screenshot, Reihe enthält.
 
-Automatisch generierte Beschreibung
 
 
  
